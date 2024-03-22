@@ -1,0 +1,11 @@
+x=12
+y=14
+z=2
+print(x+y)
+print(x-y)
+print(x*y)
+print(x/y)
+print(x//y)
+print(x**z)
+print(x%z)
+print(-x)
