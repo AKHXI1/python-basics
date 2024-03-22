@@ -1,3 +1,3 @@
 # python-basics
 
-# from basic programs
+from basic programs
